@@ -1,6 +1,5 @@
 import random
-from tkinter import Y
-guesses= 5
+guesses = 5
 
 while True:
     user_input = input("Press 'Y' if you like poop. and want\n to play a stinky lil game. Press 'Q' to quit..")
